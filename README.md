@@ -3,6 +3,7 @@
 ## Description 
 This is a command line application that takes the users input and generates a easy and professional README file!
 
+![](https://github.com/klyngdal/readMeGen/blob/main/images/ReadMeGen1.gif)
 
 # Table of Contents
 1. [Description](#Description)<br>
