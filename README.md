@@ -1,7 +1,7 @@
 # **ReadMeGen**
 
 ## Description 
-This is a command line application that takes the user input and generates a easy and professionalREADME file!
+This is a command line application that takes the users input and generates a easy and professional README file!
 
 
 # Table of Contents
@@ -23,7 +23,7 @@ Instructions: after installing Node.js and npm inquirer packages then run "node 
 This application is covered by the mit license. 
 
 ## Contributing
-Pull request welcome!
+Pull requests welcome!
 
 ## Tests
 n/a
