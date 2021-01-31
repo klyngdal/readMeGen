@@ -70,6 +70,7 @@ inquirer
 ## Description 
 ${response.description}
 
+![](ReadMeGen1.gif)
 
 # Table of Contents
 1. [Description](#Description)<br>
